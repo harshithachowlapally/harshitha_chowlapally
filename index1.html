@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -80,11 +79,10 @@
   <section id="contact">
     <div class="contact container">
       <div>
-        <h1 class="section-title">Contact <span>Information</span></h1>
+        <h1 class="section-title">Contact <span>Me</span></h1>
       </div>
       <div class="contact-items">
         <div class="contact-item">
-          <div class="icon"><img src="phone.jpg" /></div>
           <div class="contact-info">
             <h1>Phone</h1>
             <h2>+1 757 550 8009</h2>
@@ -92,7 +90,6 @@
           </div>
         </div>
         <div class="contact-item">
-          <div class="icon"><img src="mail.jpg" /></div>
           <div class="contact-info">
             <h1>Email</h1>
             <h2>harshithachowlapally@gmail.com</h2>
@@ -103,15 +100,6 @@
   </section>
   <!-- End Contact Section -->
 
-  <!-- Footer -->
-  <section id="footer">
-    <div class="footer container">
-      <div class="brand">
-        <h1>Harshitha Chowlapally</h1>
-      </div>
-    
-  </section>
-  <!-- End Footer -->
   <script src="./app.js"></script>
 </body>
 
