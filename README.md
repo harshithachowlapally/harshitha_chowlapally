@@ -68,7 +68,7 @@
 		<h2>Skills</h2>
 		<h3>Languages</h3>
 		<p>Java, Python, SQL</P>
-		<h3>Familiar with Microsoft office(Word,Power Point), HTML</h3>
+		<p>Familiar with Microsoft office(Word,Power Point), HTML</P>
 	    <!--<a href="resume m.pdf" class="cta">Download Resume</a>-->
       </div>
     </div>
