@@ -60,7 +60,7 @@
       </div>
       <div class="col-right">
         <h1 class="section-title">ABOUT <span>ME</span></h1>
-        <p>I'm now enrolled in Old Dominion University's Master of Computer Science program. Although data engineering and parallel computing are my main areas of interest, I'm also interested in learning more about data science and analysis.</p>
+        <p>I'm a graduate master's student in Computer Science at Old Dominion University.I am enthusiastic in developing unique and practical solutions that rely on the power of technology to improve people's daily lives.  .</p>
         <h2>Education</h2>
         <p>Matrsuri Engineering College
             <br>Electronics & Communication Engineering</br>
