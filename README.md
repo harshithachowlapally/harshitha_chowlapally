@@ -60,11 +60,11 @@
       </div>
       <div class="col-right">
         <h1 class="section-title">ABOUT <span>ME</span></h1>
-        <p>I'm a graduate master's student in Computer Science at Old Dominion University.I am enthusiastic in developing unique and practical solutions that rely on the power of technology to improve people's daily lives.  .</p>
+        <p>I'm a graduate master's student in Computer Science at Old Dominion University.I am enthusiastic in developing unique and practical solutions that rely on the power of technology to improve people's daily lives.</p>
         <h2>Education</h2>
-        <p>Matrsuri Engineering College
-            <br>Electronics & Communication Engineering</br>
-            2017-2021</p>
+        <p>Matrsuri Engineering College</P>
+            <br>Electronics & Communication Engineering
+            2017-2021</br>
 		<h2>Skills</h2>
 		<h3>Languages</h3>
 		<p>Java, Python, SQL</P>
