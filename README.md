@@ -64,7 +64,7 @@
         <h2>Education</h2>
         <p>Matrsuri Engineering College</P>
            <p> Electronics & Communication Engineering
-             2017-2021</P>
+             (2017-2021)</P>
 		<h2>Skills</h2>
 		<h3>Languages</h3>
 		<p>Java, Python, SQL</P>
